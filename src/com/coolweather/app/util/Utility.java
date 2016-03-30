@@ -127,7 +127,6 @@ public class Utility {
         editor.putString("publish_time",publishTime);
         editor.putString("current_date",sdf.format(new Date()));
         editor.commit();
-
     }
 
 
